@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there!!👋
 
-<!--
-**Andresc06/Andresc06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programmer student who loves experimenting and learning about IT fields like Web-developing, Networking and programming.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying Computer Engineering at Universidad Rafael Urdaneta
+- 💬 Spoken Languages: English and Spanish
+- 🌱 I’m currently learning React and PERN stack
+- 👯 I’m looking to collaborate on any oportunity that help me to gain experience as a developer
+- ✍️  In my free time, I write some code, investigate about new technologies and play videogames as my hobbies.
+- 📄 Check my [Resume](https://drive.google.com/file/d/1Z5D36_DfVP1lD_FxEN6m03IRcUyBeDqe/view) for more details about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to reach me:
+
+
+<a href="https://www.linkedin.com/in/andresc06/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
+<a href="mailto:andrescontreras370@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
