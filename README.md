@@ -5,7 +5,7 @@ I am a programmer student who loves experimenting and learning about IT fields l
 
 - 🔭 I’m currently studying Computer Engineering at Universidad Rafael Urdaneta
 - 💬 Spoken Languages: English and Spanish
-- 🌱 I’m currently learning React and PERN stack
+- 🌱 I’m currently learning React and MERN stack
 - 👯 I’m looking to collaborate on any oportunity that help me to gain experience as a developer
 - ✍️  In my free time, I write some code, investigate about new technologies and play videogames as my hobbies.
 - 📄 Check my [Resume](https://drive.google.com/file/d/1Z5D36_DfVP1lD_FxEN6m03IRcUyBeDqe/view) for more details about me.
