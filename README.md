@@ -27,7 +27,6 @@ Actively seeking **Internships / Junior dev roles**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-757575.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
