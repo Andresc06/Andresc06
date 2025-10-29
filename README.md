@@ -9,6 +9,7 @@ Actively seeking **Internships / Junior dev roles**
 ### 💻 Relevant Project (Check my Github Repositories)
 - **[Portfolio Website](https://github.com/Andresc06/portfolio-project)** — *React · Next.js · Tailwind · Framer Motion · Nodemailer*
 - **[PCA-DecisionTrees ML](https://github.com/Andresc06/pca-tree)** — *Machine Learning · Python · Pandas · Matplotlib · Numpy*
+- **[Data Structures: DFS/BFS](https://github.com/Andresc06/Data-Structure-Project)** — *Data Structures · C++ · Binary Trees · BFS · DFS · Adjancency List*
 - **[Cryptopals Crypto Wallet](https://github.com/Andresc06/cryptopalsfrontend)** — *React · Node.js · BINANCE API · MongoDB*
 - **[CityScope (MVC site)](https://github.com/Andresc06/cityscope-project)** — *CodeIgniter 4 · AJAX · NYTimes API*
 - **[Dungeon Tiles](https://github.com/Andresc06/Dungeon-Tiles)** — *Javascript (Using Canvas) · Sweetalert*
@@ -20,6 +21,7 @@ Actively seeking **Internships / Junior dev roles**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
