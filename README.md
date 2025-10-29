@@ -7,7 +7,8 @@ Actively seeking **Internships / Junior dev roles**
 ---
 
 ### 💻 Relevant Project (Check my Github Repositories)
-- **[Portfolio Website](https://github.com/Andresc06/portfolio-project)** — *React · Next.js · Tailwind · Framer Motion · Nodemailer* 
+- **[Portfolio Website](https://github.com/Andresc06/portfolio-project)** — *React · Next.js · Tailwind · Framer Motion · Nodemailer*
+- **[PCA-DecisionTrees ML](https://github.com/Andresc06/pca-tree)** — *Machine Learning · Python · Pandas · Matplotlib · Numpy*
 - **[Cryptopals Crypto Wallet](https://github.com/Andresc06/cryptopalsfrontend)** — *React · Node.js · BINANCE API · MongoDB*
 - **[CityScope (MVC site)](https://github.com/Andresc06/cityscope-project)** — *CodeIgniter 4 · AJAX · NYTimes API*
 - **[Dungeon Tiles](https://github.com/Andresc06/Dungeon-Tiles)** — *Javascript (Using Canvas) · Sweetalert*
