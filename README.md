@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Andres Contreras
-Software Engineer & Full-Stack Developer based in Austin, TX, focused on **AI tooling and automation**. Currently a **Jr. Developer Intern at BCD Travel, onsite at Apple Inc.**, building AI-powered automation in production.
+Software Engineer & Full-Stack Developer based in Austin, TX, focused on **AI tooling and automation**. Currently a **Jr. Developer Intern at BCD Travel**, building AI-powered automation in production.
 
 📚 Hold a **B.A.S. in Software Development, GPA 4.0** (Austin Community College) and am now pursuing an **M.S. in AI Engineering & Software Engineering** (WGU).
 
